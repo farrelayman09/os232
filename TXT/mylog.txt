@@ -6,6 +6,23 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W02 50 L01 SCELE/Discord related
+ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 50 L08 Quiz related including studying
+ZCZC W02 50 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 100 L21 Trying something
+ZCZC W02 100 L08 Quiz related including studying
+ZCZC W02 50 L11 Assignment #01
+ZCZC W02 10 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W02 50 L12 Assignment #02
+ZCZC W02 10 L13 Assignment #03
+ZCZC W02 10 L14 Assignment #04
+ZCZC W02 20 L15 Assignment #05
+ZCZC W02 20 L24 Scripting in general.
+ZCZC W02 20 L16 Assignment #06
+ZCZC W02 80 L70 Studying for other courses.
+ZCZC W02 20 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W02 60 L81 Listening: Radio, Music, etc.
 ZCZC W01 50 L01 SCELE/Discord related
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 50 L08 Quiz related including studying
