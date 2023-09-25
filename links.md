@@ -17,6 +17,13 @@ In this video, LabIT helps the viewer learn the basics of VI editor which is the
 
 * [Bash Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=tK9Oc6AEnR4) ---
 Learn bash scripting in this crash course for beginners. This video adequately explains bash scripting and is easy to understand.
+
+* [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) ---
+This course will give you a full introduction into all of the core concepts in the C programming language.
+
+* [Linux System Programming with C](https://www.youtube.com/playlist?list=PLysdvSvCcUhbrU3HhGhfQVbhjnN9GXCq4) ---
+This playlist has all the essentials for you to learn Linux System programming using the C programming language.
+
 <br>
 <hr>
 
