@@ -24,6 +24,12 @@ This course will give you a full introduction into all of the core concepts in t
 * [Linux System Programming with C](https://www.youtube.com/playlist?list=PLysdvSvCcUhbrU3HhGhfQVbhjnN9GXCq4) ---
 This playlist has all the essentials for you to learn Linux System programming using the C programming language.
 
+* [Pointers in C for Absolute Beginners - Full Course](https://www.youtube.com/watch?v=MIL2BK02X8A) ---
+Pointers are variables that store the memory address of another variable. They "point" to the location of data in memory. This video explains the essentials of pointer very well.
+
+* [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM) ---
+A short and easy to understand video about the basics of pointers in C.
+	
 <br>
 <hr>
 

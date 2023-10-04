@@ -6,6 +6,23 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W04 50 L01 SCELE/Discord related
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 30 L11 Assignment #01
+ZCZC W04 10 L07 Demo related
+ZCZC W04 100 L70 Studying for other courses.
+ZCZC W04 50 L12 Assignment #02
+ZCZC W04 10 L13 Assignment #03
+ZCZC W04 20 L41 TXT/mylog.txt related.
+ZCZC W04 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 20 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W04 20 L45 TXT/SHA256SUM related
+ZCZC W04 20 L24 Scripting in general.
+ZCZC W04 10 L25 C-language including Make.
+ZCZC W04 80 L70 Studying for other courses.
+ZCZC W04 30 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W04 60 L81 Listening: Radio, Music, etc.
+ZCZC W04 100 L21 Trying something
 ZCZC W03 50 L01 SCELE/Discord related
 ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 30 L11 Assignment #01
