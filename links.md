@@ -29,6 +29,12 @@ Pointers are variables that store the memory address of another variable. They "
 
 * [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM) ---
 A short and easy to understand video about the basics of pointers in C.
+
+* [Function Basics | C Programming Tutorial](https://www.youtube.com/watch?v=NGQoKF2Ggt8) ---
+This video gives a good overview of the basics of using functions in C.  
+
+* [Array Basics | C Programming Tutorial](https://www.youtube.com/watch?v=SqOphaInWOs) ---
+This video gives a good overview of the basics of using arrays in C.
 	
 <br>
 <hr>
