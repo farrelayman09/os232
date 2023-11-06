@@ -35,6 +35,12 @@ This video gives a good overview of the basics of using functions in C.
 
 * [Array Basics | C Programming Tutorial](https://www.youtube.com/watch?v=SqOphaInWOs) ---
 This video gives a good overview of the basics of using arrays in C.
+
+* [fork() in linux](https://www.youtube.com/watch?v=CaWgJIbwb-4) ---
+This video explains fork function in linux by using simple examples and code with outputs. 
+
+* [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY) ---
+This video discusses the fork() and exec() system calls.
 	
 <br>
 <hr>
