@@ -41,6 +41,12 @@ This video explains fork function in linux by using simple examples and code wit
 
 * [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY) ---
 This video discusses the fork() and exec() system calls.
+
+* [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) ---
+This course discusses topics such as Process Synchronization, Cooperating Processes, Brief recap of Shared Memory Systems and Producer-Consumer Problem, and Race Condition.
+
+* [Deadlock in Operating System | 4 Conditions of Deadlocks | Deadlock Handling - Process Management](https://www.youtube.com/watch?v=UVo9mGARkhQ) ---
+In this deadlock in OS video tutorial, we will understand what is a deadlock in Operating systems, what are the conditions that result in deadlocks & strategies for handling deadlocks.
 	
 <br>
 <hr>
