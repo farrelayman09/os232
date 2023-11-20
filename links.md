@@ -47,7 +47,13 @@ This course discusses topics such as Process Synchronization, Cooperating Proces
 
 * [Deadlock in Operating System | 4 Conditions of Deadlocks | Deadlock Handling - Process Management](https://www.youtube.com/watch?v=UVo9mGARkhQ) ---
 In this deadlock in OS video tutorial, we will understand what is a deadlock in Operating systems, what are the conditions that result in deadlocks & strategies for handling deadlocks.
+
+* [LFS 12.0 - How to build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+In this series of videos Kernotex demonstrate how to install LFS 12.0 on real hardware, replacing the Windows 10 system that is already installed on the disk. If you've never built Linux From Scratch before, don't worry as he shows every step in detail from beginning to end. 
 	
+* [I use Arch on an M1 MacBook, btw](https://www.youtube.com/watch?v=j_I9nkpovCQ) ---
+Did you know you can run Linux on an M1 Macbook Pro? It's now possible thanks to a new distro called Asahi Linux. Fireship did some investigative computing and was able to run Arch on a brand new Apple Silicon M1 pro chip, but with some caveats...
+
 <br>
 <hr>
 
