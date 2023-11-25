@@ -6,6 +6,23 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W09 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W09 30 L11 Assignment #01
+ZCZC W09 50 L12 Assignment #02
+ZCZC W09 80 L13 Assignment #03
+ZCZC W09 50 L32 YouTube: watching OS related topics, etc.
+ZCZC W09 30 L14 Assignment #04
+ZCZC W09 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W09 10 L07 Demo related
+ZCZC W09 20 L41 TXT/mylog.txt related.
+ZCZC W09 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W09 20 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W09 20 L45 TXT/SHA256SUM related
+ZCZC W09 50 L24 Scripting in general.
+ZCZC W09 50 L70 Studying for other courses.
+ZCZC W09 30 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W09 30 L81 Listening: Radio, Music, etc.
+ZCZC W09 50 L98 Else that is not related with this Operating Systems class.
 ZCZC W08 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W08 30 L11 Assignment #01
 ZCZC W08 50 L12 Assignment #02

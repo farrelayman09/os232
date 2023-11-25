@@ -54,6 +54,15 @@ In this series of videos Kernotex demonstrate how to install LFS 12.0 on real ha
 * [I use Arch on an M1 MacBook, btw](https://www.youtube.com/watch?v=j_I9nkpovCQ) ---
 Did you know you can run Linux on an M1 Macbook Pro? It's now possible thanks to a new distro called Asahi Linux. Fireship did some investigative computing and was able to run Arch on a brand new Apple Silicon M1 pro chip, but with some caveats...
 
+* [Hard disk Architecture || Magnetic Disk Architecture || Operating Systems || Disk Management](https://www.youtube.com/watch?v=m1oNigNpT5M) ---
+This video discusses the basic concepts of harddisk architecture, magnetic disk architecture, and disk management.
+
+* [FCFS Disk Scheduling Algorithm || Operating System | OS](https://www.youtube.com/watch?v=p48PdudrrgU&list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm&index=91) ---
+This video discusses the First Come First Serve scheduling algorithm.
+
+* [SCAN Disk Scheduling Algorithm || Operating System | OS](https://www.youtube.com/watch?v=Ft5o11WJ2Bc&list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm&index=93) ---
+This video discusses the SCAN disk scheduling algorithm.
+
 <br>
 <hr>
 
